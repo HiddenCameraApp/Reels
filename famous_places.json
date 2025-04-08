@@ -5,8 +5,8 @@
     "location": "Paris, France",
     "latitude": 48.858844,
     "longitude": 2.294351,
-    "description": "The Eiffel Tower, one of the most recognizable structures in the world, stands at 324 meters tall in the heart of Paris. Constructed in 1889 as the entrance arch for the World's Fair, it was initially criticized but later came to symbolize the city's artistic and architectural excellence. Visitors can ascend via elevators or stairs to enjoy panoramic views of Paris, dine at the tower’s restaurants, or learn about its history in exhibits.",
-    "image_url": ""
+    "description": "The Eiffel Tower, one of the most recognizable structures in the world, stands at 324 meters tall in the heart of Paris. Constructed in 1889 as the entrance arch for the World's Fair, it was initially criticized but later came to symbolize the city's artistic and architectural excellence. Visitors can ascend via elevators or stairs to enjoy panoramic views of Paris, dine at the tower\u2019s restaurants, or learn about its history in exhibits.",
+    "image_url": "https://i.ibb.co/4ZyPgRgN/Eiffel-Tower.jpg"
   },
   {
     "id": 2,
@@ -14,8 +14,8 @@
     "location": "New York, USA",
     "latitude": 40.689247,
     "longitude": -74.044502,
-    "description": "Gifted by France to the United States in 1886, the Statue of Liberty stands as a universal symbol of freedom and democracy. Located on Liberty Island in New York Harbor, the neoclassical statue was designed by Frédéric Auguste Bartholdi and built by Gustave Eiffel. Standing 93 meters tall from ground to torch, Lady Liberty welcomes millions of visitors annually who come to explore its museum, pedestal, and crown.",
-    "image_url": ""
+    "description": "Gifted by France to the United States in 1886, the Statue of Liberty stands as a universal symbol of freedom and democracy. Located on Liberty Island in New York Harbor, the neoclassical statue was designed by Fr\u00e9d\u00e9ric Auguste Bartholdi and built by Gustave Eiffel. Standing 93 meters tall from ground to torch, Lady Liberty welcomes millions of visitors annually who come to explore its museum, pedestal, and crown.",
+    "image_url": "https://i.ibb.co/F4FGn5fm/Statue-of-Liberty.jpg"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "latitude": 40.431908,
     "longitude": 116.570374,
     "description": "The Great Wall of China is an ancient series of fortifications stretching over 21,000 kilometers, built over centuries to protect Chinese states from invasions. Beginning in the 7th century BC and enhanced by various dynasties, including the Ming, it showcases remarkable military engineering. Tourists today can walk restored sections near Beijing, such as Badaling and Mutianyu, offering sweeping mountain views and cultural insight.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/bg824nMb/Great-Wall.jpg"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "latitude": 41.890251,
     "longitude": 12.492373,
     "description": "The Colosseum in Rome is an iconic symbol of Imperial Rome, known for its massive stone amphitheater that once hosted gladiator battles, animal hunts, and public spectacles. Completed in AD 80 under Emperor Titus, it could hold up to 80,000 spectators. Despite centuries of natural disasters and stone looting, much of the Colosseum remains, attracting millions of visitors annually.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/bjX5r6WL/Colosseum.jpg"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "latitude": 43.082816,
     "longitude": -79.074163,
     "description": "Niagara Falls, straddling the border of the USA and Canada, consists of three waterfalls: Horseshoe Falls, American Falls, and Bridal Veil Falls. Collectively, they have the highest flow rate of any waterfall in North America. Popular for boat tours, scenic viewpoints, and nighttime illumination, Niagara Falls is a stunning natural wonder drawing millions of visitors annually.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/fGMBrR8r/Niagara-Falls.jpg"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "latitude": -13.163068,
     "longitude": -72.545128,
     "description": "Machu Picchu is an ancient Incan citadel nestled high in the Andes Mountains of Peru. Believed to have been built in the 15th century under Emperor Pachacuti, this UNESCO World Heritage Site is famous for its dry-stone walls, agricultural terraces, and panoramic views. It remains one of the most iconic examples of Inca architecture and ingenuity.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/5Xx5mf4w/Machu-Picchu.jpg"
   },
   {
     "id": 7,
@@ -59,8 +59,8 @@
     "location": "Pisa, Italy",
     "latitude": 43.722952,
     "longitude": 10.396597,
-    "description": "The Leaning Tower of Pisa is a freestanding bell tower of the cathedral in Pisa, Italy, known worldwide for its unintended tilt. Constructed over 199 years beginning in the 12th century, the tilt began during construction due to unstable foundation soil. Extensive stabilization work has preserved its lean, making it one of Italy’s most famous architectural landmarks.",
-    "image_url": ""
+    "description": "The Leaning Tower of Pisa is a freestanding bell tower of the cathedral in Pisa, Italy, known worldwide for its unintended tilt. Constructed over 199 years beginning in the 12th century, the tilt began during construction due to unstable foundation soil. Extensive stabilization work has preserved its lean, making it one of Italy\u2019s most famous architectural landmarks.",
+    "image_url": "https://i.ibb.co/k6M68JLV/Tower-of-Pisa.jpg"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "latitude": 27.173891,
     "longitude": 78.042068,
     "description": "The Taj Mahal is a white marble mausoleum built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal. Located on the south bank of the Yamuna River in Agra, it is considered the finest example of Mughal architecture. Its intricate carvings, symmetrical design, and romantic history make it a UNESCO World Heritage Site and a global symbol of love.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/fVMWKwq4/Taj-Mahal.jpg"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "latitude": 25.197525,
     "longitude": 55.274288,
     "description": "The Burj Khalifa in Dubai is the tallest structure in the world, soaring to a height of 828 meters (2,717 feet). Completed in 2010, it features luxury residences, corporate suites, and observation decks that offer breathtaking views of the desert and cityscape. It represents a pinnacle of modern engineering and architecture.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/RM5xryr/Burj-Khalifa.jpg"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "latitude": 51.500729,
     "longitude": -0.124625,
     "description": "The Palace of Westminster, home to the UK Parliament, and its iconic clock tower, Big Ben, are architectural and political landmarks in London. Big Ben technically refers to the Great Bell inside the tower, now renamed the Elizabeth Tower. Together, they represent British history, governance, and Gothic Revival architecture.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/LdF3yGsG/Big-Ben-Palace-of-Westminster.jpg"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "latitude": 36.3932,
     "longitude": 25.4615,
     "description": "Santorini is a stunning Greek island in the Aegean Sea, known for its white-washed buildings with blue domes perched on cliffs overlooking the caldera. Formed by a massive volcanic eruption, the island features dramatic views, beautiful sunsets, and unique beaches with red and black sand. It's a popular honeymoon and vacation destination steeped in history and mythology.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/hJn7b0CL/Santorini.jpg"
   },
   {
     "id": 12,
@@ -104,8 +104,8 @@
     "location": "Sydney, Australia",
     "latitude": -33.8568,
     "longitude": 151.2153,
-    "description": "The Sydney Opera House is a world-famous performing arts center and architectural marvel, located on Bennelong Point in Sydney Harbour. Designed by Danish architect Jørn Utzon, its sail-like design makes it one of the most photographed buildings in the world. It hosts more than 1,500 performances annually and is a UNESCO World Heritage Site.",
-    "image_url": ""
+    "description": "The Sydney Opera House is a world-famous performing arts center and architectural marvel, located on Bennelong Point in Sydney Harbour. Designed by Danish architect J\u00f8rn Utzon, its sail-like design makes it one of the most photographed buildings in the world. It hosts more than 1,500 performances annually and is a UNESCO World Heritage Site.",
+    "image_url": "https://i.ibb.co/MygjDjXp/Sydney-Opera-House.jpg"
   },
   {
     "id": 13,
@@ -113,8 +113,8 @@
     "location": "Japan",
     "latitude": 35.0116,
     "longitude": 135.7681,
-    "description": "Historic Kyoto, once the capital of Japan, is renowned for its well-preserved temples, shrines, traditional wooden houses, and geisha culture. Home to 17 UNESCO World Heritage Sites, including Kinkaku-ji and Ginkaku-ji temples, Kyoto offers a glimpse into Japan’s imperial past and spiritual traditions.",
-    "image_url": ""
+    "description": "Historic Kyoto, once the capital of Japan, is renowned for its well-preserved temples, shrines, traditional wooden houses, and geisha culture. Home to 17 UNESCO World Heritage Sites, including Kinkaku-ji and Ginkaku-ji temples, Kyoto offers a glimpse into Japan\u2019s imperial past and spiritual traditions.",
+    "image_url": "https://i.ibb.co/5h81BpQF/Historic-Kyoto.jpg"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "latitude": -22.9519,
     "longitude": -43.2105,
     "description": "Christ the Redeemer is a monumental statue of Jesus Christ standing atop the Corcovado Mountain in Rio de Janeiro. Completed in 1931, the 30-meter tall statue with outstretched arms is a global symbol of Christianity and a cultural icon of Brazil. It offers breathtaking panoramic views of the city and the bay below.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/d443Q9F0/Christ-the-Redeemer.jpg"
   },
   {
     "id": 15,
@@ -132,7 +132,7 @@
     "latitude": 13.4125,
     "longitude": 103.8667,
     "description": "Angkor Wat is the largest religious monument in the world, originally constructed as a Hindu temple for the Khmer Empire and later transformed into a Buddhist temple. Located near Siem Reap, Cambodia, it is renowned for its grand scale, intricate carvings, and spiritual significance. A UNESCO World Heritage Site, it is considered the pinnacle of classical Khmer architecture.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/TMh4bGwh/Angkor-Wat.jpg"
   },
   {
     "id": 16,
@@ -141,7 +141,7 @@
     "latitude": 34.9671,
     "longitude": 135.7727,
     "description": "Fushimi Inari Taisha is a famous Shinto shrine in Kyoto, Japan, best known for its thousands of vermilion torii gates that lead up Mount Inari. Dedicated to the deity of rice and prosperity, Inari, the shrine has been an important religious site since the 8th century. The winding trail through the gates provides a serene and spiritually enriching hike.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/99MtzWSn/Fushimi-Inari-Shrine.jpg"
   },
   {
     "id": 17,
@@ -150,7 +150,7 @@
     "latitude": 47.5576,
     "longitude": 10.7498,
     "description": "Neuschwanstein Castle is a 19th-century Romanesque Revival palace on a rugged hill in southwest Bavaria. Commissioned by King Ludwig II of Bavaria as a retreat and homage to Richard Wagner, the castle is known for its fairy-tale appearance and breathtaking alpine surroundings. It inspired the design of Disney's Sleeping Beauty Castle.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/bgWTfMmG/Neuschwanstein-Castle.jpg"
   },
   {
     "id": 18,
@@ -158,8 +158,8 @@
     "location": "Egypt",
     "latitude": 29.9792,
     "longitude": 31.1342,
-    "description": "The Pyramids of Giza are ancient pyramid structures built more than 4,500 years ago during Egypt’s Old Kingdom. Located near Cairo, they include the Great Pyramid of Khufu, the Pyramid of Khafre, and the Pyramid of Menkaure, along with the Sphinx. They are the only remaining wonders of the original Seven Wonders of the Ancient World.",
-    "image_url": ""
+    "description": "The Pyramids of Giza are ancient pyramid structures built more than 4,500 years ago during Egypt\u2019s Old Kingdom. Located near Cairo, they include the Great Pyramid of Khufu, the Pyramid of Khafre, and the Pyramid of Menkaure, along with the Sphinx. They are the only remaining wonders of the original Seven Wonders of the Ancient World.",
+    "image_url": "https://i.ibb.co/SXc6mp4c/Pyramids-of-Giza.jpg"
   },
   {
     "id": 19,
@@ -168,7 +168,7 @@
     "latitude": 33.4996,
     "longitude": 126.5312,
     "description": "Jeju Island is a volcanic island off the southern coast of South Korea, known for its natural beauty, waterfalls, lava tubes, and Hallasan Mountain. It's a popular honeymoon destination and UNESCO World Heritage Site, offering unique cultural heritage and diverse ecosystems.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/4nFrF7p9/Jeju-Island.jpg"
   },
   {
     "id": 20,
@@ -177,7 +177,7 @@
     "latitude": 36.1069,
     "longitude": -112.1129,
     "description": "The Grand Canyon, carved by the Colorado River in Arizona, is one of the most spectacular natural landscapes in the world. Spanning over 446 km in length and over 1.6 km deep, it showcases billions of years of geological history. Visitors can hike, raft, or view the canyon from observation points like the Grand Canyon Skywalk.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/rRyVDKWB/Grand-Canyon.jpg"
   },
   {
     "id": 21,
@@ -186,7 +186,7 @@
     "latitude": 1.2816,
     "longitude": 103.8636,
     "description": "Gardens by the Bay is a futuristic nature park in the heart of Singapore featuring iconic Supertree structures, climate-controlled domes, and themed gardens. It's a showcase of horticultural artistry and environmental sustainability, attracting millions of visitors annually.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/7JSp1v3m/Gardens-by-the-Bay.jpg"
   },
   {
     "id": 22,
@@ -194,8 +194,8 @@
     "location": "France",
     "latitude": 48.8049,
     "longitude": 2.1204,
-    "description": "The Palace of Versailles is a grand former royal residence near Paris, renowned for its opulent architecture, the Hall of Mirrors, and extensive gardens. It symbolizes the absolute monarchy of the Ancien Régime and is a UNESCO World Heritage Site.",
-    "image_url": ""
+    "description": "The Palace of Versailles is a grand former royal residence near Paris, renowned for its opulent architecture, the Hall of Mirrors, and extensive gardens. It symbolizes the absolute monarchy of the Ancien R\u00e9gime and is a UNESCO World Heritage Site.",
+    "image_url": "https://i.ibb.co/nNbRwX0d/Palace-of-Versailles.jpg"
   },
   {
     "id": 23,
@@ -204,7 +204,7 @@
     "latitude": 30.3285,
     "longitude": 35.4444,
     "description": "Petra is a historical and archaeological city in southern Jordan, famous for its rock-cut architecture and water conduit system. Once a thriving capital of the Nabataean Kingdom, Petra is now a UNESCO World Heritage Site and one of the New Seven Wonders of the World.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/wN7Pjm7n/Petra.jpg"
   },
   {
     "id": 24,
@@ -213,7 +213,7 @@
     "latitude": -33.9628,
     "longitude": 18.4098,
     "description": "Table Mountain is a flat-topped mountain overlooking Cape Town, South Africa, known for its stunning views and rich biodiversity. Accessible via cableway or hiking, it's one of the most visited landmarks in Africa and part of the Table Mountain National Park.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/gNDjPDN/Table-Mountain.jpg"
   },
   {
     "id": 25,
@@ -222,7 +222,7 @@
     "latitude": -18.2871,
     "longitude": 147.6992,
     "description": "The Great Barrier Reef is the world's largest coral reef system, stretching over 2,300 kilometers along the northeast coast of Australia. It's a UNESCO World Heritage Site and a biodiversity hotspot, home to thousands of marine species.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/DD1sfXhr/Great-Barrier-Reef.jpg"
   },
   {
     "id": 26,
@@ -230,8 +230,8 @@
     "location": "Australia",
     "latitude": -25.3444,
     "longitude": 131.0369,
-    "description": "Uluru, also known as Ayers Rock, is a massive sandstone monolith in the heart of Australia’s Northern Territory. Sacred to the Anangu people, it is renowned for its changing colors at different times of day and is a key cultural and natural icon.",
-    "image_url": ""
+    "description": "Uluru, also known as Ayers Rock, is a massive sandstone monolith in the heart of Australia\u2019s Northern Territory. Sacred to the Anangu people, it is renowned for its changing colors at different times of day and is a key cultural and natural icon.",
+    "image_url": "https://i.ibb.co/zWT9bJwr/Uluru-Ayers-Rock.jpg"
   },
   {
     "id": 27,
@@ -239,8 +239,8 @@
     "location": "Austria",
     "latitude": 47.5613,
     "longitude": 13.6481,
-    "description": "Hallstatt is a picturesque lakeside village in Austria’s Salzkammergut region, known for its alpine houses, salt mine, and stunning scenery. It's one of the oldest still-inhabited settlements in Europe and a UNESCO World Heritage Site.",
-    "image_url": ""
+    "description": "Hallstatt is a picturesque lakeside village in Austria\u2019s Salzkammergut region, known for its alpine houses, salt mine, and stunning scenery. It's one of the oldest still-inhabited settlements in Europe and a UNESCO World Heritage Site.",
+    "image_url": "https://i.ibb.co/whWPQDcy/Hallstatt.jpg"
   },
   {
     "id": 28,
@@ -249,7 +249,7 @@
     "latitude": 51.1789,
     "longitude": -1.8262,
     "description": "Stonehenge is a prehistoric monument in Wiltshire, England, consisting of a ring of standing stones. Believed to have been constructed between 3000 BC and 2000 BC, it remains one of the world's most famous archaeological sites with mysterious origins and purposes.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/LdKp2Knj/Stonehenge.jpg"
   },
   {
     "id": 29,
@@ -258,7 +258,7 @@
     "latitude": -8.4095,
     "longitude": 115.1889,
     "description": "Bali is an Indonesian island renowned for its forested volcanic mountains, iconic rice paddies, beaches, and coral reefs. It's a popular destination for yoga, surfing, and spiritual retreats, blending vibrant culture with natural beauty.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/N6Ddh2NM/Bali-Island.jpg"
   },
   {
     "id": 30,
@@ -267,6 +267,6 @@
     "latitude": 40.758,
     "longitude": -73.9855,
     "description": "Times Square is a major commercial and entertainment hub in Midtown Manhattan, known for its bright lights, Broadway theaters, and massive digital billboards. It's often called 'The Crossroads of the World' and is a global symbol of New York City.",
-    "image_url": ""
+    "image_url": "https://i.ibb.co/wFtRtPRZ/Times-Square.jpg"
   }
 ]
