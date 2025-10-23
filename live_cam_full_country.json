@@ -2,7 +2,7 @@
   {
     "no": 1,
     "name": "Chicago Skyline",
-    "preview": "https://www.youtube.com/watch?v=-d4rS1lFzTQ",
+    "preview": "https://www.youtube.com/watch?v=feOo3Q0qA0w",
     "lat": 41.8781,
     "long": -87.6298,
     "country": "Illinois, United States",
@@ -83,7 +83,7 @@
   {
     "no": 10,
     "name": "San Francisco city view",
-    "preview": "https://www.youtube.com/watch?v=17L1ahq27ro",
+    "preview": "https://www.youtube.com/watch?v=CXYr04BWvmc",
     "lat": 37.7749,
     "long": -122.419,
     "country": "California, United States",
@@ -227,7 +227,7 @@
   {
     "no": 27,
     "name": "Teton Valley",
-    "preview": "https://www.youtube.com/watch?v=8DdnDOGWAOQ",
+    "preview": "https://www.youtube.com/watch?v=r-7zA9fAg1c",
     "lat": 43.7113,
     "long": -111.111,
     "country": "Idaho, United States",
@@ -344,7 +344,7 @@
   {
     "no": 41,
     "name": "New River",
-    "preview": "https://www.youtube.com/watch?v=4YFHDjig1hc",
+    "preview": "https://www.youtube.com/watch?v=3LtOF19QGQY",
     "lat": 26.1224,
     "long": -110.762,
     "country": "West Virginia, United States",
@@ -380,7 +380,7 @@
   {
     "no": 45,
     "name": "Arc 1950 Village",
-    "preview": "https://www.youtube.com/watch?v=vJuzcd2UxXQ",
+    "preview": "https://www.youtube.com/watch?v=SXXHa5SoAHo",
     "lat": 45.5741,
     "long": 6.7713,
     "country": "Savoie, France",
@@ -424,12 +424,12 @@
   },
   {
     "no": 50,
-    "name": "Arc 1800 Village",
-    "preview": "https://www.youtube.com/watch?v=vJuzcd2UxXQ",
+    "name": "Arc 2000 Village",
+    "preview": "https://www.youtube.com/watch?v=B0vZX9GnpxI",
     "lat": 45.5731,
     "long": 6.7746,
     "country": "Savoie, France",
-    "description": "Arc 1800 Village in France invites unhurried discovery, where open landscapes and human touches\u2014painted boats, tiled roofs, small caf\u00e9s\u2014create a sense of place. People greet visitors with practiced ease, pointing out scenic overlooks, weekend markets, and the bakery that sells out just after noon. You taste the region through seasonal fruit and slow\u2011simmered dishes, and learn it through local crafts and evening promenade traditions. By sunset, the whole scene exhales, and you understand why travelers return: quiet beauty is a habit here, not a performance. Travelers leave with a camera full of wide views and a calmer pace that lingers long after the journey home."
+    "description": "Arc 2000 Village in France invites unhurried discovery, where open landscapes and human touches\u2014painted boats, tiled roofs, small caf\u00e9s\u2014create a sense of place. People greet visitors with practiced ease, pointing out scenic overlooks, weekend markets, and the bakery that sells out just after noon. You taste the region through seasonal fruit and slow\u2011simmered dishes, and learn it through local crafts and evening promenade traditions. By sunset, the whole scene exhales, and you understand why travelers return: quiet beauty is a habit here, not a performance. Travelers leave with a camera full of wide views and a calmer pace that lingers long after the journey home."
   },
   {
     "no": 51,
@@ -461,7 +461,7 @@
   {
     "no": 54,
     "name": "La Plagne Roche de Mio",
-    "preview": "https://www.youtube.com/watch?v=ya1ZMcuvrBQ",
+    "preview": "https://www.youtube.com/watch?v=UaYHrrtjlCw",
     "lat": 45.5135,
     "long": 6.7176,
     "country": "Savoie, France",
@@ -623,7 +623,7 @@
   {
     "no": 72,
     "name": "Swimming Pool",
-    "preview": "https://www.youtube.com/watch?v=LBke10tiOYM",
+    "preview": "https://www.youtube.com/watch?v=z9JpMNJYuYg",
     "lat": 21.1429,
     "long": -86.8491,
     "country": "Quintana Roo, Mexico",
@@ -711,15 +711,6 @@
     "description": "Daxi Bridge rises amid clean mountain air and long views, where ridgelines stack like waves and forests climb toward open sky. In summer, meadows bloom with wildflowers; in winter, snow softens trails and rooftops, promising quiet outings on skis or snowshoes. Bakeries warm the streets with butter and spice, lodges trade maps for stories, and rivers sparkle with the cast of fly lines. Evenings bring starlight and woodsmoke, the kind of calm that turns footsteps into whispers and horizons into constellations. Travelers leave with a camera full of wide views and a calmer pace that lingers long after the journey home."
   },
   {
-    "no": 82,
-    "name": "San Isidro Station",
-    "preview": "https://www.youtube.com/watch?v=E_cWvNFo8AI",
-    "lat": 42.8211,
-    "long": -5.7853,
-    "country": "San Miguelito District, Panama",
-    "description": "San Isidro Station in Panama sits within a lively city tapestry where history, design, and daily rituals share the same streets. Architecture layers centuries\u2014stone facades beside glass towers\u2014while caf\u00e9s, markets, and galleries set an easy rhythm from morning to late evening. Food anchors the day: coffee that tastes like conversation, bakeries you can smell from a block away, and kitchens that renew local classics. Sunset warms the avenues and the skyline turns reflective in river or bay, perfect for a slow wander between landmarks and pocket parks. Travelers leave with a camera full of wide views and a calmer pace that lingers long after the journey home."
-  },
-  {
     "no": 83,
     "name": "Eau Claire Calgary Cam",
     "preview": "https://www.youtube.com/watch?v=2udtsRKecyw",
@@ -739,8 +730,8 @@
   },
   {
     "no": 85,
-    "name": "Pool",
-    "preview": "https://www.youtube.com/watch?v=381tmnxu7qU",
+    "name": "FUERTEVENTURA Airport",
+    "preview": "https://www.youtube.com/watch?v=JMFFi4Ma5M4",
     "lat": 28.0861,
     "long": -16.7344,
     "country": "Canary Islands, Spain",
@@ -856,12 +847,12 @@
   },
   {
     "no": 98,
-    "name": "San Sebastian de la Gomera",
-    "preview": "https://www.youtube.com/watch?v=Btt_7wLpwxM",
-    "lat": 28.0936,
-    "long": -17.1075,
-    "country": "Canary Islands, Spain",
-    "description": "San Sebastian de la Gomera invites unhurried discovery, where open landscapes and human touches\u2014painted boats, tiled roofs, small caf\u00e9s\u2014create a sense of place. People greet visitors with practiced ease, pointing out scenic overlooks, weekend markets, and the bakery that sells out just after noon. You taste the region through seasonal fruit and slow\u2011simmered dishes, and learn it through local crafts and evening promenade traditions. By sunset, the whole scene exhales, and you understand why travelers return: quiet beauty is a habit here, not a performance. Travelers leave with a camera full of wide views and a calmer pace that lingers long after the journey home."
+    "name": "Gran Canaria Playa del Ingles",
+    "preview": "https://www.youtube.com/watch?v=4PMYIGmlgsQ",
+    "lat": 27.7567,
+    "long": -15.5787,
+    "country": "Gran Canaria, Spain",
+    "description": "Gran Canaria Playa del Ingles invites unhurried discovery, where open landscapes and human touches\u2014painted boats, tiled roofs, small caf\u00e9s\u2014create a sense of place. People greet visitors with practiced ease, pointing out scenic overlooks, weekend markets, and the bakery that sells out just after noon. You taste the region through seasonal fruit and slow\u2011simmered dishes, and learn it through local crafts and evening promenade traditions. By sunset, the whole scene exhales, and you understand why travelers return: quiet beauty is a habit here, not a performance. Travelers leave with a camera full of wide views and a calmer pace that lingers long after the journey home."
   },
   {
     "no": 99,
@@ -1019,7 +1010,7 @@
   {
     "no": 116,
     "name": "HOVIMA La Pinta Beachfront",
-    "preview": "https://www.youtube.com/watch?v=NOeisG5ph9w",
+    "preview": "https://www.youtube.com/watch?v=hvsK8Fvz4rE",
     "lat": 28.0863,
     "long": -16.7345,
     "country": "Canary Islands, Spain",
@@ -1280,7 +1271,7 @@
   {
     "no": 145,
     "name": "Hotel Ca'Formenta",
-    "preview": "https://www.youtube.com/watch?v=3lDUAGio6mE",
+    "preview": "https://www.youtube.com/watch?v=7fhy-Eu8AFs",
     "lat": 45.4342,
     "long": 12.336,
     "country": "France",
@@ -1289,7 +1280,7 @@
   {
     "no": 146,
     "name": "Dolasilla Moutain Panoramic Wellness Hotel",
-    "preview": "https://www.youtube.com/watch?v=40HYi-SH1u0",
+    "preview": "https://www.youtube.com/watch?v=drhmo4XSVYA",
     "lat": 46.5755,
     "long": 11.8705,
     "country": "France",
@@ -1306,12 +1297,12 @@
   },
   {
     "no": 148,
-    "name": "Piazza Martiri della Liberta",
-    "preview": "https://www.youtube.com/watch?v=50kkmEoTMcY",
+    "name": "Gualdo Tadino",
+    "preview": "https://www.youtube.com/watch?v=Bc_bgHNApZ8",
     "lat": 43.2305,
     "long": 12.7835,
-    "country": "France",
-    "description": "Piazza Martiri della Liberta in France sits within a lively city tapestry where history, design, and daily rituals share the same streets. Architecture layers centuries\u2014stone facades beside glass towers\u2014while caf\u00e9s, markets, and galleries set an easy rhythm from morning to late evening. Food anchors the day: coffee that tastes like conversation, bakeries you can smell from a block away, and kitchens that renew local classics. Sunset warms the avenues and the skyline turns reflective in river or bay, perfect for a slow wander between landmarks and pocket parks. Travelers leave with a camera full of wide views and a calmer pace that lingers long after the journey home."
+    "country": "Umbria, Italy",
+    "description": "Gualdo Tadino  in Italy sits within a lively city tapestry where history, design, and daily rituals share the same streets. Architecture layers centuries\u2014stone facades beside glass towers\u2014while caf\u00e9s, markets, and galleries set an easy rhythm from morning to late evening. Food anchors the day: coffee that tastes like conversation, bakeries you can smell from a block away, and kitchens that renew local classics. Sunset warms the avenues and the skyline turns reflective in river or bay, perfect for a slow wander between landmarks and pocket parks. Travelers leave with a camera full of wide views and a calmer pace that lingers long after the journey home."
   },
   {
     "no": 149,
@@ -1406,7 +1397,7 @@
   {
     "no": 159,
     "name": "Orvieto",
-    "preview": "https://www.youtube.com/watch?v=FhW8BYtNO3Y",
+    "preview": "https://www.youtube.com/watch?v=y7QcpQwxHrA",
     "lat": 42.7189,
     "long": 12.1111,
     "country": "France",
@@ -1414,21 +1405,12 @@
   },
   {
     "no": 160,
-    "name": "Palazzo di Santa Margherita",
-    "preview": "https://www.youtube.com/watch?v=EakvEqxQFGY",
-    "lat": 46.0586,
-    "long": 13.2277,
-    "country": "France",
-    "description": "Palazzo di Santa Margherita in France invites unhurried discovery, where open landscapes and human touches\u2014painted boats, tiled roofs, small caf\u00e9s\u2014create a sense of place. People greet visitors with practiced ease, pointing out scenic overlooks, weekend markets, and the bakery that sells out just after noon. You taste the region through seasonal fruit and slow\u2011simmered dishes, and learn it through local crafts and evening promenade traditions. By sunset, the whole scene exhales, and you understand why travelers return: quiet beauty is a habit here, not a performance. Travelers leave with a camera full of wide views and a calmer pace that lingers long after the journey home."
-  },
-  {
-    "no": 161,
-    "name": "Ancient Walls of Fermo",
-    "preview": "https://www.youtube.com/watch?v=1mh3X5aLmxg",
-    "lat": 43.1564,
-    "long": 13.6995,
-    "country": "France",
-    "description": "Ancient Walls of Fermo in France invites unhurried discovery, where open landscapes and human touches\u2014painted boats, tiled roofs, small caf\u00e9s\u2014create a sense of place. People greet visitors with practiced ease, pointing out scenic overlooks, weekend markets, and the bakery that sells out just after noon. You taste the region through seasonal fruit and slow\u2011simmered dishes, and learn it through local crafts and evening promenade traditions. By sunset, the whole scene exhales, and you understand why travelers return: quiet beauty is a habit here, not a performance. Travelers leave with a camera full of wide views and a calmer pace that lingers long after the journey home."
+    "name": "Rialto Bridge",
+    "preview": "https://www.youtube.com/watch?v=K_Vg94nBiaY",
+    "lat": 45.4380,
+    "long": 12.3360,
+    "country": "Venice, Italy",
+    "description": "Rialto Bridge in Italy invites unhurried discovery, where open landscapes and human touches\u2014painted boats, tiled roofs, small caf\u00e9s\u2014create a sense of place. People greet visitors with practiced ease, pointing out scenic overlooks, weekend markets, and the bakery that sells out just after noon. You taste the region through seasonal fruit and slow\u2011simmered dishes, and learn it through local crafts and evening promenade traditions. By sunset, the whole scene exhales, and you understand why travelers return: quiet beauty is a habit here, not a performance. Travelers leave with a camera full of wide views and a calmer pace that lingers long after the journey home."
   },
   {
     "no": 162,
@@ -1541,7 +1523,7 @@
   {
     "no": 174,
     "name": "Piazza Duomo Square",
-    "preview": "https://www.youtube.com/watch?v=Ihxkd2hPvh4",
+    "preview": "https://www.youtube.com/watch?v=Zt_S-DpOBuU",
     "lat": 43.7712,
     "long": 11.2542,
     "country": "France",
@@ -1964,7 +1946,7 @@
   {
     "no": 221,
     "name": "Alpengasthof Tannenalm",
-    "preview": "https://www.youtube.com/watch?v=qwjt-gnItvg",
+    "preview": "https://www.youtube.com/watch?v=Q4ES5B7pS_k",
     "lat": 47.2062,
     "long": 11.8478,
     "country": "France",
@@ -2018,7 +2000,7 @@
   {
     "no": 227,
     "name": "Place du Marche",
-    "preview": "https://www.youtube.com/watch?v=9gpgv4CvAwc",
+    "preview": "https://www.youtube.com/watch?v=VsuSbXPN93o",
     "lat": 48.0493,
     "long": 7.1362,
     "country": "France",
@@ -2180,7 +2162,7 @@
   {
     "no": 245,
     "name": "House of Sanskara on Haad Rin",
-    "preview": "https://www.youtube.com/watch?v=1nVFCfRlqRo",
+    "preview": "https://www.youtube.com/watch?v=byhWzqNSsF0",
     "lat": 9.6741,
     "long": 100.0605,
     "country": "Surat Thani, Thailand",
@@ -2189,7 +2171,7 @@
   {
     "no": 246,
     "name": "Baobab Restaurant",
-    "preview": "https://www.youtube.com/watch?v=8gLq1Ss0PQM",
+    "preview": "https://www.youtube.com/watch?v=Tpj0cmMVOd0",
     "lat": 9.4718,
     "long": 100.045,
     "country": "Belle Mare, Mauritius",
@@ -2198,7 +2180,7 @@
   {
     "no": 247,
     "name": "Lamai Beach",
-    "preview": "https://www.youtube.com/watch?v=8gLq1Ss0PQM",
+    "preview": "https://www.youtube.com/watch?v=rzbWGXOOdbM",
     "lat": 9.47,
     "long": 100.045,
     "country": "Surat Thani, Thailand",
@@ -2216,7 +2198,7 @@
   {
     "no": 249,
     "name": "FitKoh Beach Gym",
-    "preview": "https://www.youtube.com/watch?v=RmP5eN7gQ6A",
+    "preview": "https://www.youtube.com/watch?v=bW1tA1Mg1kE",
     "lat": 9.553,
     "long": 100.059,
     "country": "Surat Thani, Thailand",
@@ -2549,7 +2531,7 @@
   {
     "no": 286,
     "name": "Maroma beach",
-    "preview": "https://youtu.be/Xil98Ya2JCo",
+    "preview": "https://www.youtube.com/watch?v=VYJUHIKVxQA",
     "lat": 20.644556,
     "long": -87.055528,
     "country": "Quintana Roo, Mexico",
@@ -2675,7 +2657,7 @@
   {
     "no": 300,
     "name": "SRIA East-West",
-    "preview": "https://www.youtube.com/watch?v=KiDAI1gThRw",
+    "preview": "https://www.youtube.com/watch?v=890WmHX7h6U",
     "lat": 26.260466,
     "long": -81.824301,
     "country": "Florida, United States",
@@ -2718,24 +2700,6 @@
     "description": "Cau rong bridge rises amid clean mountain air and long views, where ridgelines stack like waves and forests climb toward open sky. In summer, meadows bloom with wildflowers; in winter, snow softens trails and rooftops, promising quiet outings on skis or snowshoes. Bakeries warm the streets with butter and spice, lodges trade maps for stories, and rivers sparkle with the cast of fly lines. Evenings bring starlight and woodsmoke, the kind of calm that turns footsteps into whispers and horizons into constellations. Travelers leave with a camera full of wide views and a calmer pace that lingers long after the journey home."
   },
   {
-    "no": 305,
-    "name": "Ba Thon bridge 2",
-    "preview": "https://www.windy.com/webcams/1730322298",
-    "lat": 10.87879,
-    "long": 106.67746,
-    "country": "Hà Tinh, Vietnam",
-    "description": "Ba Thon bridge 2 rises amid clean mountain air and long views, where ridgelines stack like waves and forests climb toward open sky. In summer, meadows bloom with wildflowers; in winter, snow softens trails and rooftops, promising quiet outings on skis or snowshoes. Bakeries warm the streets with butter and spice, lodges trade maps for stories, and rivers sparkle with the cast of fly lines. Evenings bring starlight and woodsmoke, the kind of calm that turns footsteps into whispers and horizons into constellations. Travelers leave with a camera full of wide views and a calmer pace that lingers long after the journey home."
-  },
-  {
-    "no": 306,
-    "name": "Vo Thi Sau Ward",
-    "preview": "https://www.windy.com/webcams/1730321438",
-    "lat": 10.77979,
-    "long": 106.69513,
-    "country": "Vung Tau, Vietnam",
-    "description": "Vo Thi Sau Ward invites unhurried discovery, where open landscapes and human touches\u2014painted boats, tiled roofs, small caf\u00e9s\u2014create a sense of place. People greet visitors with practiced ease, pointing out scenic overlooks, weekend markets, and the bakery that sells out just after noon. You taste the region through seasonal fruit and slow\u2011simmered dishes, and learn it through local crafts and evening promenade traditions. By sunset, the whole scene exhales, and you understand why travelers return: quiet beauty is a habit here, not a performance. Travelers leave with a camera full of wide views and a calmer pace that lingers long after the journey home."
-  },
-  {
     "no": 307,
     "name": "Soliman Street",
     "preview": "https://www.youtube.com/watch?v=9LyZGu_Lrg8",
@@ -2774,7 +2738,7 @@
   {
     "no": 311,
     "name": "House of Sanskara",
-    "preview": "https://www.youtube.com/live/1nVFCfRlqRo?feature=shared",
+    "preview": "https://www.youtube.com/watch?v=byhWzqNSsF0",
     "lat": 9.548872,
     "long": 100.06206,
     "country": "Ko Phangan, Thailand",
@@ -2887,15 +2851,6 @@
     "long": -78.906932,
     "country": "United States",
     "description": "Peace Bridge - Canadian Inspection Lanes in United States rises amid clean mountain air and long views, where ridgelines stack like waves and forests climb toward open sky. In summer, meadows bloom with wildflowers; in winter, snow softens trails and rooftops, promising quiet outings on skis or snowshoes. Bakeries warm the streets with butter and spice, lodges trade maps for stories, and rivers sparkle with the cast of fly lines. Evenings bring starlight and woodsmoke, the kind of calm that turns footsteps into whispers and horizons into constellations. Travelers leave with a camera full of wide views and a calmer pace that lingers long after the journey home."
-  },
-  {
-    "no": 324,
-    "name": "Hotel Matts",
-    "preview": "https://www.youtube.com/live/LLFt5TkX0uQ?feature=shared",
-    "lat": 60.160074,
-    "long": 24.731483,
-    "country": "Espoo, Finland",
-    "description": "Hotel Matts @ Matinkyl\u00e4 in Norway invites unhurried discovery, where open landscapes and human touches\u2014painted boats, tiled roofs, small caf\u00e9s\u2014create a sense of place. People greet visitors with practiced ease, pointing out scenic overlooks, weekend markets, and the bakery that sells out just after noon. You taste the region through seasonal fruit and slow\u2011simmered dishes, and learn it through local crafts and evening promenade traditions. By sunset, the whole scene exhales, and you understand why travelers return: quiet beauty is a habit here, not a performance. Travelers leave with a camera full of wide views and a calmer pace that lingers long after the journey home."
   },
   {
     "no": 325,
